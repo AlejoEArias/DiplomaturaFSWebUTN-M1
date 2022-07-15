@@ -2,3 +2,6 @@ Bananas
 Manzanas
 Duraznos
 Peras
+Galletitas
+Facturas
+Crema
