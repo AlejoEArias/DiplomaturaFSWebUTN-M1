@@ -1,0 +1,33 @@
+p{
+    font-size: large;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+#cta{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: greenyellow;
+    border: 2px solid black;
+    margin: 50px 500px;
+}
+.texto_centrado_subrayado{
+    font-size: larger;
+    text-decoration-line: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#amigos{
+    font-size: larger;
+    font-weight: bold;
+    color: blue;
+    text-transform: uppercase;
+}
+#enemigos{
+    font-size: larger;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase;
+}
+.centrado{
+    text-align: center;
+}
